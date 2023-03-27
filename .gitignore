@@ -1,6 +1,5 @@
 .idea/
-.DS_Store/
-.vscode/
+.flake8
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
